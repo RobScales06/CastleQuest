@@ -3,11 +3,13 @@
 Enemy 1: Null Monster
 
 Active Sprite:
+------------
               
     (o.o)   
   *|/| |/   
      | |
-     
+------------
+
 Health: 50
 Attack Power: 2
 Attack Probability: 80%
@@ -23,21 +25,24 @@ a Null Monster is trained to look for irregularities and
 sort them out, occasionally including the rugged protagonist.
 
 KO Sprite:
+------------
             
     (x.x)   
     /| |\   
   *_ | |    
-  
+------------
+
+---------------------------------------------------------
 
 Enemy 2: Squib
 
 Active Sprite:
-              
+------------
             
-   '(. _ .)'
-    /// \\\
-    ||| ||| 
-     
+ '(. _ .)'
+  /// \\\
+  ||| ||| 
+------------     
 Health: 80
 Attack Power: 10
 Attack Probability: 30%
@@ -46,17 +51,44 @@ Defense: 1
 Attack Name: bubble blow
 
 Squib is a 6-tentacle monster from a the next town over.
-Studying environmental sciences and currently looking for 
-funding for a research paper. 
-Just visitng to ask the king for grant money.
-Kind of worried that you'll get in the way of his pitch
-that he's been practicing all week.
+
 
 
 KO Sprite:
+------------
          
 *(x o x)*
  /// \\\
  \\\ ///
-  
-  
+------------
+
+
+---------------------------------------------------------
+
+Enemy 3: Φ╡ñπüäπâëπâ⌐πé┤πâ│
+
+Active Sprite:
+------------ 
+,,,'{  //// 
+```\ \/// _,
+   (  \___/ 
+ ,,/,,/,\,\ 
+------------     
+Health: 80
+Attack Power: 20
+Attack Probability: 10%
+Defense: 1
+
+Attack Name: ...
+
+Formally known as 赤いドラゴン, standing at a towering four lines of text, this dragon defends the Castle.
+
+
+
+KO Sprite:
+------------
+         
+,,,-{  //// 
+```\&&///   
+  ,,),,)\   
+------------
