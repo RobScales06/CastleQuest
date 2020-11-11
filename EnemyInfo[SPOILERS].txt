@@ -1,0 +1,62 @@
+#Enemies encountered in the CastleQuest demo
+
+Enemy 1: Null Monster
+
+Active Sprite:
+              
+    (o.o)   
+  *|/| |/   
+     | |
+     
+Health: 50
+Attack Power: 2
+Attack Probability: 80%
+Defense: 1
+
+Attack Name: Scrub
+
+Generally concerned with keeping things clean and in order,
+Null Monsters typically stand by during battles and 
+fill in for other monsters if something goes wrong.
+Wielding a brush to clean up after a battle is over,
+a Null Monster is trained to look for irregularities and
+sort them out, occasionally including the rugged protagonist.
+
+KO Sprite:
+            
+    (x.x)   
+    /| |\   
+  *_ | |    
+  
+
+Enemy 2: Squib
+
+Active Sprite:
+              
+            
+   '(. _ .)'
+    /// \\\
+    ||| ||| 
+     
+Health: 80
+Attack Power: 10
+Attack Probability: 30%
+Defense: 1
+
+Attack Name: bubble blow
+
+Squib is a 6-tentacle monster from a the next town over.
+Studying environmental sciences and currently looking for 
+funding for a research paper. 
+Just visitng to ask the king for grant money.
+Kind of worried that you'll get in the way of his pitch
+that he's been practicing all week.
+
+
+KO Sprite:
+         
+*(x o x)*
+ /// \\\
+ \\\ ///
+  
+  
