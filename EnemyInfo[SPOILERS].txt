@@ -81,8 +81,7 @@ Defense: 1
 
 Attack Name: ...
 
-Formally known as 赤いドラゴン, standing at a towering four lines of text, this dragon defends the Castle.
-
+An ancient dragon formerly known as 赤いドラゴン, standing at a towering four lines of text, this dragon defends the Castle from intruders.
 
 
 KO Sprite:
