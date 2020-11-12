@@ -22,7 +22,7 @@ Null Monsters typically stand by during battles and
 fill in for other monsters if something goes wrong.
 Wielding a brush to clean up after a battle is over,
 a Null Monster is trained to look for irregularities and
-sort them out, occasionally including the rugged protagonist.
+sort them out, occasionally including the rugged travellers.
 
 KO Sprite:
 ------------
@@ -65,7 +65,7 @@ KO Sprite:
 
 ---------------------------------------------------------
 
-Enemy 3: Φ╡ñπüäπâëπâ⌐πé┤πâ│
+Enemy 3: Φ╡ñπüäπâëπâ⌐πé┤πâ│ (赤いドラゴン)
 
 Active Sprite:
 ------------ 
@@ -81,8 +81,8 @@ Defense: 1
 
 Attack Name: ...
 
-An ancient dragon formerly known as 赤いドラゴン, standing at a towering four lines of text, this dragon defends the Castle from intruders.
-
+An ancient dragon standing at a towering four lines of text. 
+Not much is known of the dragon's origins.
 
 KO Sprite:
 ------------
