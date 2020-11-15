@@ -53,7 +53,6 @@ Attack Name: bubble blow
 Squib is a 6-tentacle monster from a the next town over.
 
 
-
 KO Sprite:
 ------------
          
