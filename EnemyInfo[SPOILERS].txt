@@ -22,7 +22,8 @@ Null Monsters typically stand by during battles and
 fill in for other monsters if something goes wrong.
 Wielding a brush to clean up after a battle is over,
 a Null Monster is trained to look for irregularities and
-sort them out, occasionally including the rugged travellers.
+sort them out, occasionally including the rugged travellers
+who come to the castle.
 
 KO Sprite:
 ------------
@@ -50,8 +51,10 @@ Defense: 1
 
 Attack Name: bubble blow
 
-Squib is a 6-tentacle monster from a the next town over.
-
+Squib is a 6-tentacle monster from the next town over.
+Really friendly when you get to know him but can be 
+pretty adversarial if you catch him off-guard. Likes 
+reading and boba tea.
 
 KO Sprite:
 ------------
